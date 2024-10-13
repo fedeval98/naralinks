@@ -6,7 +6,7 @@ import Media from './components/media.vue'
 <template>
     <header class="flex md:flex-col md:w-full gap-2 justify-center items-center">
       <picture>
-        <img class="w-[100px] rounded-full" src="/pfp.png" alt="NaraPlayVT">
+        <img class="w-[100px] rounded-full" src="/pfp.webp" alt="NaraPlayVT">
       </picture>
       <h1 class="text-4xl sm:text-4xl text-white font-extrabold font-caveat">NaraPlayVT</h1>
     </header>
