@@ -12,7 +12,7 @@ export const links = [
     url: "https://discord.com/invite/9KqGw4bDcH"
   },
   {
-    nombre: "Ko-Fi",
-    url: "https://ko-fi.com/naraplayvt"
+    nombre: "TikTok",
+    url: "https://www.tiktok.com/@naraplayvt"
   }
 ]
